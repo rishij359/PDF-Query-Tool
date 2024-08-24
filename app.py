@@ -10,7 +10,7 @@ from langchain.memory import ConversationBufferMemory
 import os
 
 # Constants for environment setup
-GOOGLE_API_KEY = "AIzaSyBm3UYleYvRMoFzTiFJzucfVjnvTx38mS8"
+GOOGLE_API_KEY = "key"
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # Function definitions
